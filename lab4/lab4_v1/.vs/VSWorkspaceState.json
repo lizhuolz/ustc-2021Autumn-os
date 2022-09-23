@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\myOS",
+    "\\myOS\\kernel",
+    "\\myOS\\kernel\\mem",
+    "\\userApp"
+  ],
+  "SelectedNode": "\\myOS\\userInterface.h",
+  "PreviewInSolutionExplorer": false
+}
